@@ -7,4 +7,5 @@ Como funciona:
 - API é utilizada para converter os endereços em geocoordenadas (latitude e longitude)
 - outra API é utilizada para gerar a rota mais otimizada a partir das geocoordenadas
 
-  Utilizar o comando dotnet run dentro do diretório. Rodar com HTTPS.
+Requer .NET framework instalado.
+Utilizar o comando dotnet run dentro do diretório. Rodar com HTTPS.
