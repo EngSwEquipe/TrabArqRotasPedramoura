@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iw2YCAR65/2nzah6jbkF66YsBimHg7bslTAh2kVdl9iz94KQGRFMYYSsNN3WnN9vGqWRbG3qWh+Q34Z4HDr9sA==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\AutoRoute\\AutoRoute\\AutoRoute.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\T-Gamer\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\T-Gamer\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
